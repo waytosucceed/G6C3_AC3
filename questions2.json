@@ -1,0 +1,96 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Select the sentence which has the antonym of the word 'hesitant'",
+        "options": [
+            "a) She was reluctant to try the new activity.",
+            "b) He approached the task with confidence.",
+            "c) They were unsure about making the decision."
+        ],
+        "correct": 1,
+        "explanation": "The antonym of 'hesitant', which means showing signs of fear or uncertainty, is 'confident', which means feeling or showing assurance about one's abilities or actions."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Select the sentence which has the antonym of the word 'gloomy'",
+        "options": [
+            "a) The rainy weather put them in a sombre mood.",
+            "b) The bright sunshine lifted everyone's spirits.",
+            "c) They were feeling melancholic about the situation."
+        ],
+        "correct": 1,
+        "explanation": "The antonym of 'gloomy', which means depressing or unhappy, is 'bright', which means cheerful and optimistic."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Select the sentence which has the antonym of the word 'timid'",
+        "options": [
+            "a) She was meek and submissive during the presentation.",
+            "b) He boldly stood up and spoke his mind.",
+            "c) They were reserved and cautious in their approach.",
+            "d) None of the above"
+        ],
+        "correct": 1,
+        "explanation": "The antonym of 'timid', which means lacking confidence or courage, is 'bold', which means confident and courageous."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Select the sentence which has the antonym of the word 'rigid'",
+        "options": [
+            "a) The rules were inflexible and unyielding.",
+            "b) The teacher was lenient and accommodating.",
+            "c) The structure was sturdy and unbending.",
+            "d) Both A and B"
+        ],
+        "correct": 1,
+        "explanation": "The antonym of 'rigid', which means stiff and unyielding, is 'lenient', which means willing to be flexible and understanding."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "The adventurous explorer embarked on a perilous journey through the dense jungle. What is an antonym for the word PERILOUS?",
+        "options": [
+            "a) hazardous",
+            "b) treacherous",
+            "c) safe",
+            "d) risky"
+        ],
+        "correct": 2,
+        "explanation": "The antonym of 'perilous', which means full of danger or risk, is 'safe', which means free from harm or risk."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "After the storm, the once TRANQUIL lake became TURBULENT and choppy. What is an antonym for the word TRANQUIL?",
+        "options": [
+            "a) calm",
+            "b) peaceful",
+            "c) serene",
+            "d) agitated"
+        ],
+        "correct": 3,
+        "explanation": "The antonym of 'tranquil', which means peaceful and calm, is 'agitated', which means in a state of anxiety or restlessness."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "The old, DILAPIDATED building was scheduled for demolition. What is an antonym for the word DILAPIDATED?",
+        "options": [
+            "a) rundown",
+            "b) decrepit",
+            "c) well-maintained",
+            "d) deteriorated"
+        ],
+        "correct": 2,
+        "explanation": "The antonym of 'dilapidated', which means being in a state of disrepair or decay, is 'well-maintained', which means being kept in good condition."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "The METICULOUS chef carefully measured each ingredient for the dish. What is an antonym for the word METICULOUS?",
+        "options": [
+            "a) precise",
+            "b) careful",
+            "c) thorough",
+            "d) careless"
+        ],
+        "correct": 3,
+        "explanation": "The antonym of 'meticulous', which means extremely careful and precise, is 'careless', which means lacking attention to detail or proper care."
+    }
+]

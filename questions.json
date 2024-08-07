@@ -1,0 +1,204 @@
+[{
+    "questionNo": "Q1.",
+    "question": "Which word is an antonym of harmony?",
+    "options": [
+        "a) discord",
+        "b) unity"
+    ],
+    "correct": 0,
+    "explanation": "The antonym of harmony, which means a state of peace and agreement, is discord, which means a lack of agreement or harmony."
+},
+{
+    "questionNo": "Q2.",
+    "question": "Which word is an antonym of transparent?",
+    "options": [
+        "a) opaque",
+        "b) clear"
+    ],
+    "correct": 0,
+    "explanation": "The antonym of transparent, which means allowing light to pass through and being easily seen through, is opaque, which means not allowing light to pass through and not being easily seen through."
+},
+{
+    "questionNo": "Q3.",
+    "question": "An antonym for \"expand\" is:",
+    "options": [
+        "a) grow",
+        "b) contract",
+        "c) enlarge",
+        "d) increase"
+    ],
+    "correct": 1,
+    "explanation": "The antonym of \"expand\", which means to become larger or more extensive, is \"contract\", which means to become smaller or more restricted."
+},
+{
+    "questionNo": "Q4.",
+    "question": "An antonym for \"humble\" is:",
+    "options": [
+        "a) modest",
+        "b) shy",
+        "c) arrogant",
+        "d) timid"
+    ],
+    "correct": 2,
+    "explanation": "The antonym of \"humble\", which means having a modest or low view of one's own importance, is \"arrogant\", which means having an exaggerated sense of one's own importance or abilities."
+},
+{
+    "questionNo": "Q5.",
+    "question": "Sluggishness is being energetic and lively.",
+    "options": [
+        "a) True",
+        "b) False"
+    ],
+    "correct": 1,
+    "explanation": "The word \"sluggish\" means slow-moving, lazy, and lacking energy, which is the opposite of being energetic and lively. Therefore, the statement \"Sluggish is being energetic and lively\" is false."
+},
+{
+    "questionNo": "Q6.",
+    "question": "Hospitable is being unwelcoming and unfriendly.",
+    "options": [
+        "a) True",
+        "b) False"
+    ],
+    "correct": 1,
+    "explanation": "The antonym of \"hospitable\", which means being warm, friendly, and welcoming to guests, is not \"being unwelcoming and unfriendly\". The opposite of hospitable would be inhospitable or unwelcoming."
+},
+{
+    "questionNo": "Q7.",
+    "question": "Which word has the opposite meaning of the word OBEDIENT?",
+    "options": [
+        "a) submissive",
+        "b) compliant",
+        "c) defiant",
+        "d) meek"
+    ],
+    "correct": 2,
+    "explanation": "The opposite of being obedient, which means complying with rules or orders, is being defiant, which means openly resisting authority or an order."
+},
+{
+    "questionNo": "Q8.",
+    "question": "Which word has the opposite meaning of the word COURAGE?",
+    "options": [
+        "a) bravery",
+        "b) fear",
+        "c) strength",
+        "d) heroism"
+    ],
+    "correct": 1,
+    "explanation": "The opposite of courage, which means the ability to face danger or difficulty, is fear, which is a feeling of anxiety and apprehension."
+},
+{
+    "questionNo": "Q9.",
+    "question": "Which of the following is the opposite of optimism?",
+    "options": [
+        "a) pessimism",
+        "b) realism",
+        "c) cynicism",
+        "d) scepticism"
+    ],
+    "correct": 0,
+    "explanation": "The opposite of optimism, which is a feeling of hopefulness and confidence about the future, is pessimism, which is a tendency to expect the worst and see the negative side of things."
+},
+{
+    "questionNo": "Q10.",
+    "question": "Which of the following is the opposite of fake?",
+    "options": [
+        "a) real",
+        "b) Reality",
+        "c) coordination",
+        "d) cooperation"
+    ],
+    "correct": 0,
+    "explanation": "Real means something or someone that's true. Fake is always something that's false in reality."
+},
+{
+    "questionNo": "Q11.",
+    "question": "The opposite of permanent is transient.",
+    "options": [
+        "a) True",
+        "b) False"
+    ],
+    "correct": 0,
+    "explanation": "The opposite of \"permanent\", which means lasting or enduring without change, is \"transient\", which means lasting only for a short time and not permanent."
+},
+{
+    "questionNo": "Q12.",
+    "question": "The opposite of optimistic is gloomy.",
+    "options": [
+        "a) True",
+        "b) False"
+    ],
+    "correct": 0,
+    "explanation": "The opposite of \"optimistic\", which means having a positive and hopeful outlook, is \"gloomy\", which means having a sad, pessimistic, or depressed outlook."
+},
+{
+    "questionNo": "Q13.",
+    "question": "Which two words are NOT antonyms?",
+    "options": [
+        "a) logical, rational",
+        "b) diligent, lazy",
+        "c) sensitive, insensitive",
+        "d) success, failure"
+    ],
+    "correct": 0,
+    "explanation": "The words \"success\" and \"failure\" are antonyms, as success means the accomplishment of an aim or purpose, while failure means lack of success in achieving a goal."
+},
+{
+    "questionNo": "Q14.",
+    "question": "Which two words are antonyms?",
+    "options": [
+        "a) expand, extend",
+        "b) diminish, reduce",
+        "c) enlarge, decrease",
+        "d) strengthen, reinforce"
+    ],
+    "correct": 2,
+    "explanation": "Antonyms are words that have opposite meanings. \"Enlarge\" means to make something bigger or wider, while \"decrease\" means to make something smaller or less, thus they are antonyms."
+},
+{
+    "questionNo": "Q15.",
+    "question": "Which word has the OPPOSITE meaning of the word graceful?",
+    "options": [
+        "a) elegant",
+        "b) poised",
+        "c) clumsy",
+        "d) refined"
+    ],
+    "correct": 2,
+    "explanation": "The opposite of graceful, which means moving in a smooth, elegant, and attractive way, is clumsy, which means lacking grace or skill in movement or posture."
+},
+{
+    "questionNo": "Q16.",
+    "question": "Which word has the OPPOSITE meaning of the word generous?",
+    "options": [
+        "a) stingy",
+        "b) giving",
+        "c) magnanimous",
+        "d) charitable"
+    ],
+    "correct": 0,
+    "explanation": "The opposite of generous, which means freely giving or sharing, is stingy, which means being unwilling to give or spend freely."
+},
+{
+    "questionNo": "Q17.",
+    "question": "Which phrase means the opposite of exacerbate?",
+    "options": [
+        "a) increase the pain",
+        "b) intensify the problem",
+        "c) worsen the situation",
+        "d) mitigate the effects"
+    ],
+    "correct": 3,
+    "explanation": "Exacerbate means to make a problem, bad situation, or negative feeling worse, while mitigate means to make something negative less severe, serious, or painful. Therefore, mitigating the effects is the opposite of exacerbating."
+},
+{
+    "questionNo": "Q18.",
+    "question": "Which phrase means the opposite of clandestine?",
+    "options": [
+        "a) secretive and concealed",
+        "b) public and open",
+        "c) covert and furtive",
+        "d) hidden and surreptitious"
+    ],
+    "correct": 1,
+    "explanation": "Clandestine means kept secret or done secretly, often for an illicit purpose. Therefore, the opposite of clandestine would be something that is public and open, lacking secrecy or concealment."
+}]
